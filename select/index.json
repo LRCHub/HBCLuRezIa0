@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Helium",
+  "base_artist": "The Chainsmokers & Anna Sofia",
+  "createdAt": "2026-02-25T03:37:17.195012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Helium",
+      "artist": "Dabin feat. Lexi Norton",
+      "has_synced": true,
+      "path": "select/01_Helium_Dabin_feat._Lexi_Norton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Helium (feat. Lexi Norton)",
+      "artist": "Dabin, Lexi Norton",
+      "has_synced": true,
+      "path": "select/02_Helium_(feat._Lexi_Norton)_Dabin,_Lexi_Norton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Helium",
+      "artist": "Einstürzende Neubauten",
+      "has_synced": false,
+      "path": "select/03_Helium_Einstürzende_Neubauten.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Helium",
+      "artist": "Skyclad",
+      "has_synced": false,
+      "path": "select/04_Helium_Skyclad.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Helium Hearts",
+      "artist": "Super Furry Animals",
+      "has_synced": true,
+      "path": "select/05_Helium_Hearts_Super_Furry_Animals.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Helium",
+      "artist": "Feeder",
+      "has_synced": true,
+      "path": "select/06_Helium_Feeder.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Helium",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/07_Helium_Sia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Helium (From \"Fifty Shades Darker (Original Motion Picture Soundtrack)\")",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/08_Helium_(From__Fifty_Shades_Darker_(Original_Motion_Picture_Soundtrack)_)_Sia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Helium",
+      "artist": "Chris Lake feat. Jareth",
+      "has_synced": true,
+      "path": "select/09_Helium_Chris_Lake_feat._Jareth.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Helium (Feat. Jareth)",
+      "artist": "Chris Lake Feat. Jareth",
+      "has_synced": true,
+      "path": "select/10_Helium_(Feat._Jareth)_Chris_Lake_Feat._Jareth.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Helium (Sia vs. David Guetta & Afrojack)",
+      "artist": "Sia feat. David Guetta & Afrojack",
+      "has_synced": true,
+      "path": "select/11_Helium_(Sia_vs._David_Guetta_&_Afrojack)_Sia_feat._David_Guetta_&_Afrojack.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Helium (Sia vs. David Guetta & Afrojack)",
+      "artist": "Sia, David Guetta, Afrojack",
+      "has_synced": true,
+      "path": "select/12_Helium_(Sia_vs._David_Guetta_&_Afrojack)_Sia,_David_Guetta,_Afrojack.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Helium",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/13_Helium_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Helium",
+      "artist": "Chris Lake Ft. Jareth",
+      "has_synced": true,
+      "path": "select/14_Helium_Chris_Lake_Ft._Jareth.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Helium",
+      "artist": "Glass Animals",
+      "has_synced": true,
+      "path": "select/15_Helium_Glass_Animals.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Helium",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/16_Helium_Sia.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Helium Balloon",
+      "artist": "Wale",
+      "has_synced": true,
+      "path": "select/17_The_Helium_Balloon_Wale.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Suckin on Helium/Kaleidoscope World",
+      "artist": "Francis M",
+      "has_synced": true,
+      "path": "select/18_Suckin_on_Helium_Kaleidoscope_World_Francis_M.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Helium",
+      "artist": "The Chainsmokers & Anna Sofia",
+      "has_synced": false,
+      "path": "select/pl_01_Helium_The_Chainsmokers_&_Anna_Sofia.txt"
+    }
+  ]
+}
