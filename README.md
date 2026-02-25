@@ -1,0 +1,88 @@
+# The Chainsmokers & Anna Sofia – Helium
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I wanna love you, and I love you
+But I shouldn't take your heart,
+but I just couldn't
+'Cause I wouldn't make you
+feel it all
+Oh, I'd just hurt you,
+but I wouldn't ever mean to
+Keep you 'round to look
+right through you
+Keep on pushing you until
+you fall
+It's not my fault
+It's all I know
+If I didn't want,
+you wouldn't care at all
+Oh, what to do? To do with you?
+So,
+how can I put this? Is
+it getting through?
+I wanna love you, and I love you
+But I shouldn't take your heart,
+but I just couldn't
+'Cause I wouldn't make you
+feel it all
+Oh, I'd just hurt you,
+but I wouldn't ever mean to
+Keep you 'round to look
+right through you
+Keep on pushing you until
+you fall
+It's not my fault
+It's all I know
+If I didn't want,
+you wouldn't care at all
+Oh, what to do? To do with you?
+So,
+how can I put this? Is
+it getting through?
+I wanna love you, and I love you
+But I shouldn't take your heart,
+but I just couldn't
+'Cause I wouldn't make you
+feel it all
+Oh, I'd just hurt you,
+but I wouldn't ever mean to
+Keep you 'round to look
+right through you
+Keep on pushing you until
+you fall
+It's not my fault
+It's all I know
+If I didn't want,
+you wouldn't care at all
+Oh, what to do? To do with you?
+So,
+how can I put this? Is
+it getting through?
+I wanna love you, and I love you
+But I shouldn't take your heart,
+but I just couldn't
+'Cause I wouldn't make you
+feel it all
+Oh, I'd just hurt you,
+but I wouldn't ever mean to
+Keep you 'round to look
+right through you
+Keep on pushing,
+pushing 'til you fall
+It's not my fault
+It's all I know
+If I didn't want,
+you wouldn't care at all
+Oh, what to do? To do with you?
+So how can I put this? Is
+it getting through?
+I wanna love you, and I love you
+But I shouldn't take your—
+Oh, I'd just hurt you,
+but I wouldn't ever mean to
+Keep you—
+I wanna love you, and I love you
+But I shouldn't take your—
+```
